@@ -1,0 +1,9 @@
+name: lru
+version: 0.1.0
+
+authors:
+  -  <mulvihill@informz.com>
+
+crystal: 0.20.3
+
+license: MIT
