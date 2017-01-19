@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name])  - creator, maintainer
+- [Bryan Mulvihill](https://github.com/bmulvihill)  - creator, maintainer

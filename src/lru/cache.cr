@@ -1,6 +1,5 @@
 module Lru
   class Cache(K, V)
-
     def initialize(@size : Int32)
       @store = Hash(K, V).new
     end
